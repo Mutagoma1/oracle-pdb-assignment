@@ -42,7 +42,7 @@ Navigated to database instance and PDB sections
 
 <img width="1345" height="663" alt="7" src="https://github.com/user-attachments/assets/427331b9-a5d7-40eb-a2b6-48cae9759921" />
 
-##3Issues and Solutions
+3 Issues and Solutions
 
 Issue 1: OEM Displaying PDBS Problem
 Problem:
